@@ -1,0 +1,13 @@
+# ModelSim generated libraries and output
+work/
+work_*/
+transcript
+vsim.wlf
+*.vcd
+*.wlf
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
